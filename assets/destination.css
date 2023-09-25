@@ -1,0 +1,281 @@
+.firstpartback {
+    background-image: url(./imagesdestination/destination\ back.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+  }
+  .firstpart {
+  }
+  .navmain {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 70px;
+  }
+  .navnames {
+    display: flex;
+    font-size: 16px;
+    margin-left: 90px;
+    padding: 10px;
+    text-decoration: none;
+    max-height: 25px;
+  }
+  .navhome {
+    border: 1px solid #0336ff;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #0336ff;
+    padding: 10px 45px;
+  }
+  .navothers {
+    color: #ffa500;
+  }
+  
+  .destinationmainpart{
+    background-color: #EDEDED;
+  }
+  .aboutfirstname {
+    font-size: 64px;
+    text-align: center;
+    color: ;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 10%;
+  }
+  .aboutheyexplorers {
+    width: 92%;
+    margin: 0 auto;
+    display: flex;
+  }
+  .heyexplorers1 {
+    width: 50%;
+    height: 400px;
+    font-size: 64px;
+    display: flex;
+    align-items: center;
+  }
+  .heyexplorers2 {
+    width: 50%;
+    max-height: 300px;
+    display: flex;
+    align-items: center;
+    font-size: 21px;
+  }
+  .heyexplorers2lorem{
+    line-height: 2;
+    max-width: 500px;
+    margin-left: 20%;
+    margin-top: 10%;
+  }
+  .heyexplorersp1 {
+    margin: 0;
+    margin-right: 10px;
+
+  }
+  .briefhistory {
+    line-height: 0;
+    display: flex;
+  }
+  .heyexplorersgo{
+   line-height: 0;
+  }
+  .heyexplorersgold {
+    color: #ffa500;
+  }
+
+  .continents{
+    width: 92%;
+    font-size: 25px;
+    display: flex;
+    margin: 0 auto;
+
+
+  }
+  .continent{
+    width: 100%;
+    border: 1px solid 
+    rgba(196, 196, 196, 1);
+    padding: 10px 20px;
+    text-align: center;
+  }
+
+  .destinationcontainer{
+    width: 92%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 50px 0px;
+  }
+  .destinationbox1{
+    width: 30%;
+    height: 650px;
+    position: relative;
+  }
+  .destboximage{
+    width: 100%;
+    max-height: 500px;
+  }
+  .destboxdiv{
+    background-color: #fff;
+    border: 1px solid #fff;
+    width: 80%;
+    max-height: 330px;
+    position: absolute;
+    bottom: 10%;
+  }
+  .destboxp1{
+    font-size: 18px;
+    color: #ffa500;
+    border-left: 4px solid #ffa500;
+    padding-left: 18px;
+    padding-right: 30px;
+  }
+  .destboxp2{
+    font-size: 24px;
+    max-width: 220px;
+    padding-left: 20px;
+  }
+  .destboxline{
+    border-bottom: 1px solid #C4C4C4;
+    width: 80%;
+    margin-left: 18px;
+  }
+  .destmapcomment{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+  }
+  .mapcommenticon{
+    width: 18px;height: 18px;
+  }
+
+  .aboutlastpart{
+    width: 100%;
+    background-color: #ededed;
+  }
+  .aboutlastpartimage{
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+  }
+  .instafollow{
+    background-color: #0336FF;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 20px;
+    color: #fff;
+    border: 1px solid #0336FF;
+    border-radius: 10px;
+    position: absolute;
+    left: 46%;
+    top: 45%;
+  }
+  
+  .aboutlastimages{
+    width: 100%;
+    padding: 50px 0px;
+  }
+  .aboutjoinandinput{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    padding-bottom: 50px;
+  }
+  
+  .aboutlastjoinpies{
+    font-size: 30px;
+    line-height: 0;
+    display: flex;
+  }
+  .aboutlastjoinp{
+    margin-right: 10px;
+  }
+  .aboutSubscribetoday{
+    font-size: 30px;
+    line-height: 0;
+    margin-top: 0;
+  }
+  .aboutlastjoinnumber{
+    color: #0336FF;
+    }
+    
+    .aboutlastbutton{
+      background-color: #0336FF;
+      color: #fff;
+      border-radius: 5px;
+      border: 1px solid #0336FF;
+      padding: 10px 20px;
+    }
+    .aboutlastinput{
+      width: 200px;
+      padding: 10px;
+    }
+  
+    .aboutprefooterline{
+      border-bottom: 2px solid rgba(196, 196, 196, 1);
+      background-color: #ededed;
+      padding: 20px 0px;
+    }
+    
+    .aboutfooter{
+      background-color: #ededed;
+    }
+    .aboutlastnav{
+      width: 80%;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      padding: 20px;
+      background-color: #ededed;
+    }
+    .aboutlastfooterlogo{
+      margin-right: 100px;
+    }
+     .aboutfootermain{
+      background-color: rgba(0, 0, 0, 0.68);
+      padding: 30px 0px;
+     }
+    
+    .aboutfooterfirst{
+      width: 80%;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      gap: 30px;
+      color: rgba(238, 238, 238, 1);
+    
+    }
+    
+    .aboutfooterfirst1{
+      width: 350px;
+    }
+    .aboutfooterfirst2{
+      width: 150px;
+    }
+    .aboutfooterfirst3,.aboutfooterfirst4{
+      display: flex;
+      flex-direction: column;
+    }
+    .aboutfooterategs{
+      color: rgba(238, 238, 238, 1);
+      text-decoration: none;
+      margin-top: 20px;
+    }
+    .aboutfooterline{
+      width: 100%;
+      border-bottom: 1px solid rgba(238, 238, 238, 1);
+      margin-top: 20px;
+    }
+    .aboutfooterlastlast{
+      width: 80%;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      color: 
+      rgba(238, 238, 238, 1);
+      font-size: 18px;
+      margin-top: 20px;
+    }
+  

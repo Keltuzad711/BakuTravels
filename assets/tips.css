@@ -1,0 +1,207 @@
+
+.firstpartback {
+    background-image: url(./imagestips/tipsback.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+  }
+  .firstpart {
+  }
+  .navmain {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 70px;
+  }
+  .navnames {
+    display: flex;
+    font-size: 16px;
+    margin-left: 90px;
+    padding: 10px;
+    text-decoration: none;
+    max-height: 25px;
+  }
+  .navhome {
+    border: 1px solid #0336ff;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #0336ff;
+    padding: 10px 45px;
+  }
+  .navothers {
+    color: #ffa500;
+  }
+  
+  .destinationmainpart{
+    background-color: #EDEDED;
+  }
+  .aboutfirstname {
+    font-size: 64px;
+    text-align: center;
+    color: ;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 10%;
+  }
+
+  .tipsmainpart{
+    background-color: #EDEDED;
+  }
+  .aboutfirstname {
+    font-size: 64px;
+    text-align: center;
+    color: ;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 10%;
+  }
+  .aboutheyexplorers {
+    width: 92%;
+    margin: 0 auto;
+    display: flex;
+  }
+  .heyexplorers1 {
+    width: 50%;
+    height: 400px;
+    font-size: 64px;
+    display: flex;
+    align-items: center;
+  }
+  .heyexplorers2 {
+    width: 50%;
+    max-height: 300px;
+    display: flex;
+    align-items: center;
+    font-size: 21px;
+  }
+  .heyexplorers2lorem{
+    line-height: 2;
+    max-width: 500px;
+    margin-left: 20%;
+    margin-top: 10%;
+  }
+  .heyexplorersp1 {
+    margin: 0;
+    margin-right: 10px;
+
+  }
+  .briefhistory {
+    line-height: 0;
+    display: flex;
+  }
+  .heyexplorersgo{
+   line-height: 0;
+  }
+  .heyexplorersgold {
+    color: #ffa500;
+  }
+
+  .tipscontainer{
+   width: 92%;
+   margin: 0 auto;
+   padding: 50px 0px;
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   gap: 40px;
+  }
+
+  .tipsboxes{
+     background-color: #fff;
+     width: 30%;
+     border-radius: 30px;
+     overflow: hidden;
+  }
+
+  .tipsboximage{
+   width: 100%;height: 53%;
+  }
+
+  .tipsboxp1{
+    font-size: 20px;
+    color: #6E7191;
+  }
+  .tipsboxp2{
+    color: #ffff;
+    font-size: 36px;
+    background-color: #0336FF;
+  }
+.tipsboxpadding{
+    padding: 5px 20px;
+}
+  .tipsmapcomment{
+    display: flex;
+    justify-content: space-between;
+  }
+  .tipboxcommentp{
+    font-size: 16px;
+  }
+  .tipboxcommentimg{
+    width: 20px;height: 20px;
+    margin-right: 5px;
+  }
+
+  .aboutprefooterline{
+    border-bottom: 2px solid rgba(196, 196, 196, 1);
+    background-color: #ededed;
+    padding: 20px 0px;
+  }
+  
+  .aboutfooter{
+    background-color: #ededed;
+  }
+  .aboutlastnav{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #ededed;
+  }
+  .aboutlastfooterlogo{
+    margin-right: 100px;
+  }
+   .aboutfootermain{
+    background-color: rgba(0, 0, 0, 0.68);
+    padding: 30px 0px;
+   }
+  
+  .aboutfooterfirst{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    color: rgba(238, 238, 238, 1);
+  
+  }
+  
+  .aboutfooterfirst1{
+    width: 350px;
+  }
+  .aboutfooterfirst2{
+    width: 150px;
+  }
+  .aboutfooterfirst3,.aboutfooterfirst4{
+    display: flex;
+    flex-direction: column;
+  }
+  .aboutfooterategs{
+    color: rgba(238, 238, 238, 1);
+    text-decoration: none;
+    margin-top: 20px;
+  }
+  .aboutfooterline{
+    width: 100%;
+    border-bottom: 1px solid rgba(238, 238, 238, 1);
+    margin-top: 20px;
+  }
+  .aboutfooterlastlast{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    color: 
+    rgba(238, 238, 238, 1);
+    font-size: 18px;
+    margin-top: 20px;
+  }
